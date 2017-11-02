@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Milan",
+		"surname": "Vesovic",
+		"age": 27,
+		"level": "junior"
+	},
+	{
+		"name": "Slavko",
+		"surname": "Petrovic",
+		"age": 34,
+		"level": "medior"
+	},
+	{
+		"name": "Zarko",
+		"surname": "Lausevic",
+		"age": 45,
+		"level": "junior"
+	},
+	{
+		"name": "Saban",
+		"surname": "Saulic",
+		"age": 23,
+		"level": "medior"
+	}
+]
